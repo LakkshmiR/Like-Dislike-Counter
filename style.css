@@ -8,7 +8,7 @@
   border: none;
   outline: none;
   padding: 1rem;
-  font-size: 16px;
+  font-size: 20px;
   border-radius: 5px;
   cursor: pointer;
   letter-spacing: 1px;
@@ -19,7 +19,7 @@
   border: none;
   outline: none;
   padding: 1rem;
-  font-size: 16px;
+  font-size: 20px;
   border-radius: 5px;
   border-radius: 5px;
   letter-spacing: 1px;
@@ -32,4 +32,5 @@
   font-weight: bold;
   letter-spacing: 1px;
 }
+
 
